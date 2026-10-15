@@ -14,7 +14,7 @@ public class Ex1 {
 		int i, j;
 		for (i = 1; i <= 5; i++) 
 		{
-		 for (j=1; j<=3; j++)
+		 for (j=1; j<=i; j++)
 		 {
 			 System.out.print("*");
 		 }
